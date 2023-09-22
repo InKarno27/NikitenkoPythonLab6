@@ -1,0 +1,9 @@
+Table1
+1 - Tolstoy
+2 - Pushkin
+3 - Esenin
+
+Table2
+1 - Dostoevsky
+2 - Bulgakov
+3 - Chehov
